@@ -3,9 +3,7 @@
           \ \ /\ / /   \ \ / /  \___ \ 
            \ V  V /     \ V /    ___) |
             \_/\_/       \_/    |____/ 
-                              
-             
-                 (Major Project)
+                            
 
 {'Security Testing Tool for XSS, SQLi, SSTI, and RCE'}                                 
 
